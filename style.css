@@ -1,13 +1,30 @@
 p {
-    color: red;
-    background: greenyellow;
+  color: rgb(4, 12, 12);
 }
-.div1{
+h1 {
+  background-color:azure;
+}
 
+.Carnage {
+  background-color: crimson;
 }
-.div2{
 
+#Carnage {
+    color: azure;
 }
-#divPrincipal{
-    
+.GreenGoblin {
+    background-color: darkgreen;
+}
+
+.Kang{
+    background-color: blueviolet;
+}
+.div1 {
+}
+.div2 {
+}
+#divPrincipal {
+}
+span {
+  color: black;
 }
