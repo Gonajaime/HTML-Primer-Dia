@@ -1,8 +1,9 @@
 p {
   color: rgb(4, 12, 12);
+  font-style: italic;
 }
 h1 {
-  background-color:azure;
+  background-color: azure;
 }
 
 .Carnage {
@@ -10,21 +11,16 @@ h1 {
 }
 
 #Carnage {
-    color: azure;
+  color: azure;
 }
 .GreenGoblin {
-    background-color: darkgreen;
+  background-color: darkgreen;
 }
 
-.Kang{
-    background-color: blueviolet;
+.Kang {
+  background-color: blueviolet;
 }
-.div1 {
-}
-.div2 {
-}
-#divPrincipal {
-}
+
 span {
   color: black;
 }
